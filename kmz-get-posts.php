@@ -9,7 +9,7 @@
  */
 
 /**
- * Custom Loop shortcode: [get_posts_example]
+ * Custom Loop shortcode: [get_posts_example posts_per_page="2" orderby="rand"]
  */
 function custom_loop_shortcode_get_posts($atts){
 
